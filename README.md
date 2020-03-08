@@ -11,4 +11,4 @@ Lab 4-using latches, flip flops and registers
 
 Lab 5-making clocks and counters
 
-Lab 6-using finite state machines (control and datapaths)
+Lab 6-using finite state machines (control and data paths)
