@@ -1,0 +1,218 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ronth/OneDrive/Desktop/Year 2 Sem 1/ECE241 (Digital Systems)/lab 2
+vece244_2to1Mux
+Z1 !s110 1569590823
+!i10b 1
+!s100 Qz^5YUCB2gE>;Ae9iAAZ83
+Ihn;9_H:kJkD1dO?JMB0531
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1569456761
+Z4 8Lab2part2.v
+Z5 FLab2part2.v
+L0 2
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1569590823.000000
+Z8 !s107 Lab2part2.v|
+Z9 !s90 -reportprogress|300|Lab2part2.v|
+!i113 1
+Z10 tCvgOpt 0
+nece244_2to1@mux
+vHexDecoder
+Z11 !s110 1569594476
+!i10b 1
+!s100 X2<jUET<Vl`HNHk6zXC9N0
+I80]@ZH?YNW1GofzG7^m:I1
+R2
+R0
+Z12 w1569594407
+Z13 8ece_lab2part3.v
+Z14 Fece_lab2part3.v
+L0 28
+R6
+r1
+!s85 0
+31
+Z15 !s108 1569594476.000000
+Z16 !s107 ece_lab2part3.v|
+Z17 !s90 -reportprogress|300|ece_lab2part3.v|
+!i113 1
+R10
+n@hex@decoder
+vHexDisplay
+R11
+!i10b 1
+!s100 5k5lHVLASafV7AQXOjJ381
+IzXMDhniS;T39A]ZDgKRE>3
+R2
+R0
+R12
+R13
+R14
+L0 5
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R10
+n@hex@display
+vmux
+Z18 !s110 1569456824
+!i10b 1
+!s100 gdITfj5:eEbOamVHI^l6`0
+I:<b9oefGFn[?hASbTSWH:3
+R2
+R0
+Z19 w1569369781
+Z20 8mux.v
+Z21 Fmux.v
+L0 8
+R6
+r1
+!s85 0
+31
+Z22 !s108 1569456824.000000
+Z23 !s107 mux.v|
+Z24 !s90 -reportprogress|300|mux.v|
+!i113 1
+R10
+vmux2to1
+R18
+!i10b 1
+!s100 afChEB93:g=CUEd@;WQjS2
+I=F?kSLR6zRa1[@IoCQG<60
+R2
+R0
+R19
+R20
+R21
+L0 20
+R6
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 1
+R10
+vv74LS04
+R1
+!i10b 1
+!s100 YK=XmSQ0?K88bk33mLG@b2
+IoEfFCKEGS93KUO@73bW830
+R2
+R0
+R3
+R4
+R5
+Z25 L0 21
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+nv74@l@s04
+vv74LS08
+R1
+!i10b 1
+!s100 <`=KC=an3Yhcjzi8_`TCH3
+Ij4I<bo2n]G]4o9AiJi_EB3
+R2
+R0
+R3
+R4
+R5
+Z26 L0 34
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+nv74@l@s08
+vv74LS32
+R1
+!i10b 1
+!s100 >4IAmefzHh@<HbIgbn<8I0
+IgEbcVM3RUjdVk7]S3b;db3
+R2
+R0
+R3
+R4
+R5
+L0 45
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+nv74@l@s32
+vv74LSO4
+Z27 !s110 1569456252
+!i10b 1
+!s100 ES9Fi^Z`j`nSzoi[Aia2j2
+InWCd;<c8a:X_<`ShzlZc11
+R2
+R0
+Z28 w1569456056
+R4
+R5
+R25
+R6
+r1
+!s85 0
+31
+Z29 !s108 1569456252.000000
+R8
+R9
+!i113 1
+R10
+nv74@l@s@o4
+vv74LSO8
+R27
+!i10b 1
+!s100 GaCVA:bnRJQiP1]mDBUY92
+IBGA6DzGSm_SMNCK2GmlCL0
+R2
+R0
+R28
+R4
+R5
+R26
+R6
+r1
+!s85 0
+31
+R29
+R8
+R9
+!i113 1
+R10
+nv74@l@s@o8

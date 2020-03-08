@@ -1,0 +1,34 @@
+# set the working dir, where all compiled verilog goes
+vlib work
+
+vlog Lab2part2.v
+
+
+vsim v74LS04
+
+#log all signals and add some signals to waveform window
+log {/*}
+# add wave {/*} would add all items in top level simulation module
+add wave {/*}
+
+# first test case
+#output 1
+force {pin1} 0
+force {pin2} 0
+force {pin4} 0
+force {pin12} 0
+force {pin10} 0
+force {pin8} 0
+
+#run simulation for a few ns
+run 10ns
+
+
+# ouput 0
+force {pin1} 1
+force {pin2} 1
+force {pin4} 1
+force {pin12} 1
+force {pin10} 1
+force {pin8} 1
+run 10ns
