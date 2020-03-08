@@ -1,0 +1,2 @@
+Warning (10273): Verilog HDL warning at Lab5part3.v(84): extended using "x" or "z" File: C:/Users/ronth/OneDrive/Desktop/Year 2 Sem 1/ECE241 (Digital Systems)/lab5part3/Lab5part3.v Line: 84
+Warning (10268): Verilog HDL information at Lab5part3.v(83): always construct contains both blocking and non-blocking assignments File: C:/Users/ronth/OneDrive/Desktop/Year 2 Sem 1/ECE241 (Digital Systems)/lab5part3/Lab5part3.v Line: 83

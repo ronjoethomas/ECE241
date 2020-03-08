@@ -1,0 +1,17 @@
+reg [3:0] q; // declare q
+wire [3:0] d; // declare d
+
+
+
+
+always @(posedge clock) // triggered every time clock rises
+	begin
+	if (Clear b = = 1’b0) // when Clear b is 0
+	q <= 0; // q is set to 0
+	else if (ParLoad = = 1’b1) // Check if parallel load is 1
+	q <= d; // load d
+	else if (q = = 4’b1111) // when q is the maximum value for the counter
+	q <= 0; // q reset to 0
+	else if (Enable = = 1’b1) // increment q only when Enable is 1
+	q <= q + 1; // increment q
+end
